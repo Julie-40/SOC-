@@ -115,9 +115,9 @@ AgroDefend-SOC/
 └── scripts/
     └── brute-force-sim.sh
 ```
-
----
 [Read Report](https://drive.google.com/file/d/109ZxHEndcvR27rgXAhQF54dssYaOD58T/view?usp=sharing)
+---
+
 ## 📌 Acknowledgments
 
 This project was developed as part of a hands-on cybersecurity simulation to demonstrate the value of SOC operations, network segmentation, and SIEM-based threat detection in a controlled lab environment.
