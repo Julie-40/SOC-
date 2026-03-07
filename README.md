@@ -115,7 +115,7 @@ AgroDefend-SOC/
 └── scripts/
     └── brute-force-sim.sh
 ```
-[Read Report](https://drive.google.com/file/d/109ZxHEndcvR27rgXAhQF54dssYaOD58T/view?usp=sharing)
+
 ---
 
 ## 📌 Acknowledgments
@@ -131,7 +131,7 @@ For questions, feedback, or collaboration opportunities, feel free to reach out:
 - **GitHub:** [yourusername](https://github.com/Julie-40)
 
 ---
-
+[Read Report](https://drive.google.com/file/d/109ZxHEndcvR27rgXAhQF54dssYaOD58T/view?usp=sharing)
 > *"Defense in depth is not just about layers—it's about visibility, detection, and rapid response."*
 ```
 
