@@ -1,4 +1,4 @@
-```markdown
+
 # AgroDefend: SOC in a Segmented Network
 
 ## 🛡️ Project Overview
