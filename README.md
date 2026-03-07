@@ -128,9 +128,7 @@ This project was developed as part of a hands-on cybersecurity simulation to dem
 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **GitHub:** [yourusername](https://github.com/Julie-40)
 
 ---
 
