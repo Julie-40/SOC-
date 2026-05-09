@@ -93,5 +93,3 @@ The environment is built using a **three-tier network segmentation** model:
 4. **Maintain strict egress filtering** – Only allow necessary traffic between zones.
 5. **Continuous monitoring** – Regularly review Wazuh alerts and update detection rules.
 
----
-
