@@ -23,7 +23,6 @@ The environment is built using a **three-tier network segmentation** model:
 - **SIEM Platform:** Wazuh (Manager + Indexer + Dashboard)  
 - **Endpoints:** Ubuntu Server (DMZ), Windows 10 (LAN), Kali Linux (Attacker)
 
-![Network Diagram](link-to-your-image)
 
 ---
 
@@ -74,7 +73,6 @@ The environment is built using a **three-tier network segmentation** model:
 - **Rule Level:** 12 (High Severity)
 - **MITRE Mapping:** T1110 - Brute Force (Credential Access, Initial Access)
 
-![Wazuh Alert Example](link-to-image)
 
 ---
 
@@ -97,25 +95,3 @@ The environment is built using a **three-tier network segmentation** model:
 
 ---
 
-
-
-```
-
-
-
-
----
-
-##  Acknowledgments
-
-This project was developed as part of a hands-on cybersecurity simulation to demonstrate the value of SOC operations, network segmentation, and SIEM-based threat detection in a controlled lab environment.
-
----
-
-
----
-[Read Report](https://drive.google.com/file/d/109ZxHEndcvR27rgXAhQF54dssYaOD58T/view?usp=sharing)
-> *"Defense in depth is not just about layers—it's about visibility, detection, and rapid response."*
-```
-
-You can copy this entire block and save it as `README.md` for your GitHub repository. Just remember to replace the placeholder links (like `link-to-your-image`) and contact information with your actual details.
